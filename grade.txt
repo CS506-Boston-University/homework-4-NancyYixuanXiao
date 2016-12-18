@@ -1,0 +1,9 @@
+Rating baseline:    10/10
+Rating ranking :    6/10
+Rating report  :    10/10
+Purchase baseline:  1/10
+Purchase ranking :  1/10
+Purchase report  :  10/10
+Helpful baseline:   0/10
+Helpful ranking :   0/10
+Helpful report  :   10/10
